@@ -7,24 +7,10 @@ Welcome to my GitHub profile! I'm a **React Developer** with 4+ years of experie
 ## 🛠️ Skills & Technologies
 
 - **Front-End**: React.js, Next.js, Tailwind CSS, TypeScript, Redux
-- **Back-End**: Node.js, Express.js, RESTful APIs
-- **Database**: PostgreSQL, Prisma, Diesel (Rust)
+- **Back-End**: Node.js, Express.js, Go ,RESTful APIs
+- **Database**: PostgreSQL, Prisma, MongoDB
 - **Other Tools**: Git, GitHub Actions, Bootstrap, SCSS, Figma
 - **DevOps**: CI/CD, Docker
-- **Frameworks**: Rust (Rocket), Material-UI, Chakra UI
-
----
-
-## 🌟 Projects
-
-### **[Traveloca](#)** ✈️  
-A responsive travel booking platform showcasing seamless design and user-friendly interactions. Built with Next.js, Tailwind CSS, and custom animations.
-
-### **[SKU Generator App](#)** 🛒  
-A scalable app developed using Next.js that generates SKUs for inventory management.
-
-### **[Lerma Approval Status](#)** ✅  
-A custom status management system designed to streamline approval processes, built with React and integrated API layers.
 
 ---
 
