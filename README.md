@@ -34,18 +34,8 @@ A custom status management system designed to streamline approval processes, bui
 
 ---
 
-## 💬 Let's Connect
-
-- 🌐 Portfolio: [Coming Soon]()
-- 📧 Email: [kharljhon14@example.com](mailto:kharljhon14@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 Twitter: [@yourhandle](#)
-
----
-
 ### 📝 Fun Fact  
-I work best at night and sleep in the morning. 🌙☕ When I’m not coding, you might find me brainstorming creative app ideas or enjoying deep conversations with my loved ones.
-
+I work best at night and sleep in the morning.
 ---
 
-⭐️ **Feel free to explore my repositories, and let's create something amazing together!**
+⭐️ **Feel free to explore my repositories**
