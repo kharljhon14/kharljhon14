@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **React Developer** with 4+ years of experie
 ## 🛠️ Skills & Technologies
 
 - **Front-End**: React.js, Next.js, Tailwind CSS, TypeScript, Redux
-- **Back-End**: Node.js, Express.js, Go ,RESTful APIs
+- **Back-End**: Node.js, Express.js, Go, RESTful APIs
 - **Database**: PostgreSQL, Prisma, MongoDB
 - **Other Tools**: Git, GitHub Actions, Bootstrap, SCSS, Figma
 - **DevOps**: CI/CD, Docker
