@@ -1,6 +1,6 @@
 # Hi there, I'm Karl!
 
-Welcome to my GitHub profile! I'm a **Web Developer** with 4+ years of experience specializing in front-end technologies like **TypeScript**, **Next.js**, **Tailwind CSS**, and **CSS-in-JS**. I love building responsive, intuitive user interfaces and creating full-stack web applications.
+I'm a Full-Stack Web Developer with 4+ years of experience working across both front-end and back-end technologies. I specialize in modern frameworks and tools like TypeScript, Next.js, Tailwind CSS, Node.js, Go, and more. I love building responsive, scalable web applications with beautiful UIs and solid backend architectures.
 
 ---
 
