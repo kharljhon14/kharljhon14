@@ -10,4 +10,4 @@ I'm a Full-Stack Web Developer with 4+ years of experience working across both f
 - **Back-End**: Node.js, Express.js, Go, RESTful APIs
 - **Database**: PostgreSQL, Prisma, MongoDB
 - **Other Tools**: Git, GitHub Actions, Bootstrap, SCSS, Figma
-- **DevOps**: CI/CD, Docker
+- **DevOps**: CI/CD, Docker, GCP
