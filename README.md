@@ -1,13 +1,18 @@
-# Hi there, I'm Karl!
+Hi, I'm Karl. I'm a full-stack developer with 4+ years of experience building web apps, CMS-driven sites, and backend services, mostly in TypeScript and Go.
 
-I'm a Full-Stack Web Developer with 4+ years of experience working across both front-end and back-end technologies. I specialize in modern frameworks and tools like TypeScript, Next.js, Tailwind CSS, Node.js, Go, and more. I love building responsive, scalable web applications with beautiful UIs and solid backend architectures.
+Currently building at: [`Zesty.io`](https://www.zesty.io) — Previously: [`Emapta`](https://www.emapta.com)
 
----
+Tech I reach for: `Go` `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Tailwind CSS` `Docker` `GCP`
 
-## 🛠️ Skills & Technologies
 
-- **Front-End**: React.js, Next.js, Tailwind CSS, TypeScript, Redux
-- **Back-End**: Node.js, Express.js, Go, RESTful APIs
-- **Database**: PostgreSQL, Prisma, MongoDB
-- **Other Tools**: Git, GitHub Actions, Bootstrap, SCSS, Figma
-- **DevOps**: CI/CD, Docker, GCP
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kharljhon14&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kharljhon14&theme=dracula)|
+|-----|------|
+
+Above stats generated with: [`vn7n24fzkq/github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+# Recent Projects
+
+1. [rag](https://github.com/kharljhon14/rag) (Go)
+   - A retrieval-augmented generation system built from scratch with Postgres + pgvector and DeepSeek, trained up as a printing-shop expert. Documented as a video devlog series.
+2. [Zesty Parsley Tools](https://github.com/kharljhon14/vscode-ext) (TypeScript)
+   - A VS Code extension for the Parsley templating language used in Zesty.io WebEngine — syntax highlighting, IntelliSense, snippets, and lint diagnostics.
