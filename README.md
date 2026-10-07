@@ -1,6 +1,5 @@
 Hi, I'm Karl. I'm a full-stack developer with 4+ years of experience building web apps, CMS-driven sites, and backend services, mostly in TypeScript and Go.
 
-Currently building at: [`Zesty.io`](https://www.zesty.io) — Previously: [`Emapta`](https://www.emapta.com)
 
 Tech I reach for: `Go` `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Tailwind CSS` `Docker` `GCP`
 
